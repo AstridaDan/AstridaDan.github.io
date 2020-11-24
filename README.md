@@ -1,5 +1,5 @@
 # React App
 
-Have a look om it here:
+Have a look on it here:
 
 https://astridadan-website.firebaseapp.com/
